@@ -1,0 +1,43 @@
+{
+    "datos_ingresos": [{
+            "Tipo de Residente": "Residente",
+            "Hora de Ingreso": "12:00 AM",
+            "Cantidad": 8
+        },
+        {
+            "Tipo de Residente": "Visitante",
+            "Hora de Ingreso": "12:00 AM",
+            "Cantidad": 2
+        },
+        {
+            "Tipo de Residente": "Residente",
+            "Hora de Ingreso": "1:00 AM",
+            "Cantidad": 35
+        },
+        {
+            "Tipo de Residente": "Visitante",
+            "Hora de Ingreso": "1:00 AM",
+            "Cantidad": 0
+        },
+        {
+            "Tipo de Residente": "Residente",
+            "Hora de Ingreso": "2:00 AM",
+            "Cantidad": 28
+        },
+        {
+            "Tipo de Residente": "Visitante",
+            "Hora de Ingreso": "2:00 AM",
+            "Cantidad": 1
+        },
+        {
+            "Tipo de Residente": "Residente",
+            "Hora de Ingreso": "3:00 AM",
+            "Cantidad": 35
+        },
+        {
+            "Tipo de Residente": "Visitante",
+            "Hora de Ingreso": "3:00 AM",
+            "Cantidad": 3
+        },
+    ]
+}
